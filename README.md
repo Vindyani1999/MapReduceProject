@@ -6,8 +6,8 @@ We process the `temperature.csv` file in two MapReduce steps:
 1. Find the hottest city for each **day**.
 2. Then, from the daily results, find the hottest city for each **year** in Celsius.
 
-📥 Output
-![Figure_1](https://github.com/user-attachments/assets/6a89c7ab-8a86-463e-bcca-1f2bf2ebe7f0)
+📥 Output  
+<img src="https://github.com/user-attachments/assets/6a89c7ab-8a86-463e-bcca-1f2bf2ebe7f0" width="500"/>
 
 ---
 
