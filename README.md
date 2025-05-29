@@ -13,13 +13,15 @@ We process the `temperature.csv` file in two MapReduce steps:
 
 ## 📁 Project Structure
 
+```
 weather_data/
-    ├── temperature.csv # Input dataset
-    ├── mapper.py # Mapper for daily maximum
-    ├── reducer.py # Reducer for daily maximum
-    ├── mapper2.py # Mapper for yearly maximum
-    ├── reducer2.py # Reducer for yearly maximum (with Celsius conversion)
-    ├── README.md # This file 
+├── temperature.csv         # Input dataset
+├── mapper.py               # Mapper for daily maximum
+├── reducer.py              # Reducer for daily maximum
+├── mapper2.py              # Mapper for yearly maximum
+├── reducer2.py             # Reducer for yearly maximum (with Celsius conversion)
+├── README.md               # This file
+```
 
 ---
 ## 📌 Setup & Prerequisites
